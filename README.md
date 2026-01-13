@@ -7,6 +7,7 @@ This repository contains the implementation, results, and report for Practical A
 
 ### 📂 `code/`
 Contains the source code used for the project, including the implementation of the agents and training scripts.
+To run any algorithm, you just need to run train{algorithm}.py or train{algorithm}_2.py, with the latter being for the second task (Level-based Foraging env)
 
 ### 🎥 `videos/`
 Contains exported recordings of the agents playing, specifically demonstrating the results for Task 2.
